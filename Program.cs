@@ -1,3 +1,4 @@
+using LandingApi;
 using LandingApi.Data;
 using LandingApi.Services;
 using Microsoft.EntityFrameworkCore;
